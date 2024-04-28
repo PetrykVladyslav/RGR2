@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataTableBean>
+    <data>
+        <item>1</item>
+        <item>1</item>
+    </data>
+    <data>
+        <item>2</item>
+        <item>2</item>
+    </data>
+    <data>
+        <item>3</item>
+        <item>3</item>
+    </data>
+</dataTableBean>
